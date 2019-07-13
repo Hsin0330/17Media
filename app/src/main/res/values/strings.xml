@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">GithubUsersSearch</string>
+    <string name="search_hint">Github userInfo name, userInfo ID</string>
+    <string name="search_user">Search User</string>
+    <string name="unknown_error">Sorry, something went wrong. Please try again.</string>
+</resources>
